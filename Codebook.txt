@@ -1,0 +1,20 @@
+#read in all necessary data
+
+#rename the columns according to the different features
+
+#add a column defining the training subject as well as the training features for each measurement
+
+#bind the test and the train set together
+
+#find the variables that are interesting (mean and standard deviation), keep it as an index, together with the information about the subject and the training feature
+
+#subset the data set according to our index
+
+#change the activity features into descriptive names
+
+#change the variable names into the descriptive variable names
+
+#perform a melt depending on each id and feature
+
+#create a tidy data containing the mean values for each subject/activity.
+
